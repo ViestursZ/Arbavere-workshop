@@ -4,4 +4,4 @@ This is a github repository for the geophysics workshop within the [Baltic Basem
 
 To start participating and running code, just click the "Launch Binder" button.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ViestursZ/Arbavere-workshop/HEAD?urlpath=%2Fdoc%2Ftree%2FGeophysics_workshop_MB.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ViestursZ/Arbavere-workshop/HEAD?urlpath=%2Fdoc%2Ftree%2FGeophysics_workshop_Arbavere.ipynb)
